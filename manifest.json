@@ -1,0 +1,17 @@
+{
+  "name": "Graafschap College Meme App",
+  "short_name": "Meme App",
+  "description": "A POG meme app made to get NO F",
+  "start_url": "./app.html",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "214x334",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#138bc0",
+  "background_color": "#FFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
