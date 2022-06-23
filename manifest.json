@@ -8,6 +8,11 @@
       "src": "logo.png",
       "sizes": "214x334",
       "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "theme_color": "#138bc0",
